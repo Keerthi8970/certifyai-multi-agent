@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John",
+    "role": "Data Engineer",
+    "certification": "DP-203",
+    "study_hours": 8
+  },
+  {
+    "name": "Sarah",
+    "role": "Cloud Engineer",
+    "certification": "AZ-204",
+    "study_hours": 10
+  },
+  {
+    "name": "Mike",
+    "role": "DevOps Engineer",
+    "certification": "AZ-400",
+    "study_hours": 6
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "certification": "DP-203",
+    "role": "Data Engineer",
+    "skills": [
+      "Python",
+      "SQL",
+      "Azure Data Factory",
+      "Data Pipelines",
+      "Databricks"
+    ]
+  },
+  {
+    "certification": "AZ-204",
+    "role": "Cloud Engineer",
+    "skills": [
+      "Python",
+      "Azure Functions",
+      "REST APIs",
+      "Storage",
+      "Authentication"
+    ]
+  },
+  {
+    "certification": "AZ-400",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Git",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Azure DevOps"
+    ]
+  }
+]
