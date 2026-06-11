@@ -179,6 +179,7 @@ This approach helps provide:
 
  🏗️ System Architecture
 
+```text
 +----------------------+
 |      User Input      |
 +----------+-----------+
