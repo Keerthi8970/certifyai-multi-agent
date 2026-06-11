@@ -248,7 +248,7 @@ Frontend
 ---
 
  📁 Project Structure
-
+```text
 certifyai-multi-agent/
 │
 ├── app.py
